@@ -19,8 +19,18 @@ Built using **HTML, CSS, and JavaScript**, it showcases **handcrafted jewelry**,
 - 🧩 **Clean Codebase** – Easy to modify and expand.
 
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 HTML5
+
 CSS3 
+
 JavaScript
+
+### 1️⃣ Clone the repository
+```bash
+git
+
+Hi, I'm Priya Kumari!
+
+I'm learning web development and built this Basic Day Planner to help users manage daily tasks easily. It features task input, dark mode, and a weekly view — with more features coming soon! www.linkedin.com/in/priya-kumari-2b669b2a2
