@@ -29,7 +29,7 @@ JavaScript
 
 ### 1️⃣ Clone the repository
 ```bash
-git
+git clone- https://github.com/priyayayayayaaa/Brainwave_Matrix_Intern_Task-2.git
 
 Hi, I'm Priya Kumari!
 
